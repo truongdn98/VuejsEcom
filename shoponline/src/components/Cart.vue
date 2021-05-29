@@ -227,6 +227,12 @@ export default {
 .bounce-leave-active {
   animation: bounce-in 0.5s reverse;
 }
+.order-list-show-all  {
+    text-decoration: none 
+}
+.number {
+    font-size: 13px
+}
 @keyframes bounce-in {
   0% {
     transform: scale(0);
